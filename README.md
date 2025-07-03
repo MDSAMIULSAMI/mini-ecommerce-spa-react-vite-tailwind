@@ -2,7 +2,7 @@ Of course! Using Vite is a great choice and changes the setup instructions sligh
 
 ---
 
-# Sam's TechStore: A Modern React + Vite E-commerce SPA
+# Sam's TechStore: A Modern E-commerce SPA
 
 ![Demo video](./src/assets/miniecomdemo.gif)
 
