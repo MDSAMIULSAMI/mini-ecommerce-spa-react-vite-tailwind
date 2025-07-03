@@ -1,7 +1,3 @@
-Of course! Using Vite is a great choice and changes the setup instructions slightly. Here is the updated `README.md` tailored for a Vite-based React single-page application.
-
----
-
 # Sam's TechStore: A Modern E-commerce SPA
 
 ![Demo video](./src/assets/miniecomdemo.gif)
