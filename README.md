@@ -60,12 +60,12 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/MDSAMIULSAMI/mini-ecommerce-spa-react-vite-tailwind.git
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd your-repo-name
+    cd mini-ecommerce-spa
     ```
 
 3.  **Install NPM packages:**
